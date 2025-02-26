@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Graduate School of Oceanography, University of Rhode Island</a>. slang@uri.edu
+subtitle: <a href='https://web.uri.edu/gso/meet/sarah-lang/'>Graduate School of Oceanography, University of Rhode Island</a>. slang@uri.edu
 
 profile:
   align: right
