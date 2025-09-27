@@ -49,5 +49,3 @@ Text
 </div>
 <div class="caption">
 Vorticity (zeta/f), strain (sigma/f, b,g), vertical velocities (c,h), POC anomaly (d,i), and POC flux (e,j) plotted at 'SF1' for Oct. 26M (a-e) and Oct. 26A (f-j). Vorticity and strain normalized by the coriolis parameter, f.)</div>
-
-{% endraw %}
