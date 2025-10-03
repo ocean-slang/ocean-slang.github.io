@@ -7,7 +7,7 @@ importance: 4
 category: fun
 ---
 
-More coming soon
+ <a href="/ViewerJS/#../assets/pdf/Earth and Space Science - 2023 - Lang - Modeling Coastal Water Clarity Using Landsat‐8 and Sentinel‐2.pdf"> 
 
-<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002579">Link to manuscript</a>
+<!--<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002579">Link to manuscript</a>-->
 
