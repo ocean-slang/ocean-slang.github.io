@@ -1,7 +1,14 @@
 github_users:
-  - ocean-slang
+  - torvalds
+  - alshedivat
 
-repo_description_lines_max: 0
+repo_description_lines_max: 2
 
 github_repos:
-  - ocean-slang/go-swace
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
