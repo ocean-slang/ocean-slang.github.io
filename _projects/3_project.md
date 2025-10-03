@@ -17,3 +17,5 @@ category: work
   {% endfor %}
 </div>
 {% endif %}
+
+<embed src="https://web.uri.edu/gso/news/mapping-ocean-ecosystems-with-nasa-technology-at-pace-hackweek/" style="width:500px; height: 300px;">
