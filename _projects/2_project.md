@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Airborne remote sensing of submesoscale dynamics and phytoplankton
+title: Airborne remote sensing of submesoscale dynamics and phytoplankton
+description:  
 img: assets/img/3.jpg
 importance: 2
 category: work
@@ -12,7 +12,7 @@ Abstract: Submesoscale dynamics can induce significant vertical fluxes of phytop
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/overview.pdf" title="overview of study region, plane lines, chl-a and SST variability" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/overview.png" title="overview of study region, plane lines, chl-a and SST variability" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -22,7 +22,7 @@ Text
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/plane_schematic.pdf" title="plane schematic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/plane_schematic.png" title="plane schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +32,7 @@ text
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/model_scatter.pdf" title="plane schematic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/model_scatter.png" title="plane schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ text
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/agreement.pdf" title="plane schematic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/agreement.png" title="plane schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -52,7 +52,7 @@ text
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/colocated-1.pdf" title="co-located physical and bio measurements" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colocated-1.png" title="co-located physical and bio measurements" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -62,7 +62,7 @@ text
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/F3_F5-1.pdf" title="Example of 2 features of interest, aligning convergence/divergence features with ocean color" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/F3_F5.png" title="Example of 2 features of interest, aligning convergence/divergence features with ocean color" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ Full swath SST, full swath log-10 chlorophyll-a, 1-D PCs 3-5, full swath vortici
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/cartoon-2.pdf" title="schematic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cartoon.png" title="schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
