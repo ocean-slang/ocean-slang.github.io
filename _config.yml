@@ -173,7 +173,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _layouts/cv.liquid
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
