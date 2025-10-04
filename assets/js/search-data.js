@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-fieldwork",
+          title: "fieldwork",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/atsea/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -414,9 +421,9 @@ ninja.data = [{
           description: "at a dynamic upwelling front",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "Airborne remote sensing of submesoscale dynamics and phytoplankton",
+            },},{id: "projects-airborne-remote-sensing-of-submesoscale-dynamics-and-phytoplankton",
+          title: 'Airborne remote sensing of submesoscale dynamics and phytoplankton',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-go-swace",
