@@ -2,7 +2,7 @@
 layout: page
 title: Airborne remote sensing of submesoscale dynamics and phytoplankton
 description:  
-img: assets/img/3.jpg
+img: assets/img/plane_schematic.png
 importance: 2
 category: work
 giscus_comments: true
