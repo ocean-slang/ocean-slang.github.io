@@ -20,4 +20,4 @@ Project goal: The observed phytoplankton response to mesoscale eddies, measured 
 </div>
 {% endif %}
 
-<embed src="https://web.uri.edu/gso/news/mapping-ocean-ecosystems-with-nasa-technology-at-pace-hackweek/" style="width:1000px; height: 300px;">
+<embed src="https://web.uri.edu/gso/news/mapping-ocean-ecosystems-with-nasa-technology-at-pace-hackweek/" style="width:800px; height: 500px;">
