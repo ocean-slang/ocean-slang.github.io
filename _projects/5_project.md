@@ -2,7 +2,7 @@
 layout: page
 title: NASA S-MODE Bio-optical Calibrations
 description: a project with a background image
-img: assets/img/smode
+img: assets/img/smode.png
 importance: 5
 category: fun
 ---
