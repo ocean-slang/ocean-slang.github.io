@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GO-SWACE
-description: a project that redirects to another website
+description:
 img: assets/img/Edward.png
 importance: 3
 category: work
