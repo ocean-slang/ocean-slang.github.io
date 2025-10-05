@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Sarah Lang and I am a PhD candidate at the Graduate School of Oceanography at the University of Rhode Island. This website is under construction.
+Hello! My name is Sarah Lang and I am a PhD candidate at the Graduate School of Oceanography at the University of Rhode Island. 
+
+
+<p style="color:DeepPink;">I am planning to defend my PhD in late spring 2026 and am currently looking for a post-doc position!</p>
+
+(This website is continually being updated.)
 
 Find me on [Google Scholar](https://scholar.google.com/citations?user=_1ntVBIAAAAJ&hl=en&oi=sra), [LinkedIn](https://www.linkedin.com/in/sarah-lang-153642215/), and [BlueSky](https://bsky.app/profile/sarahelang.bsky.social).
 
