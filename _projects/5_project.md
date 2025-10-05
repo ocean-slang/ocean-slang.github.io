@@ -6,8 +6,9 @@ img: assets/img/smode.png
 importance: 5
 category: fun
 ---
+<p> Click on headers for data portal and report links <\p>
 
-<h1>[S-MODE DATA](https://podaac.jpl.nasa.gov/S-MODE)</h1>
+<h1><a href="https://podaac.jpl.nasa.gov/S-MODE">S-MODE DATA</a></h1>
 
 <h1><a href="https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/s-mode/docs/SMODE_PILOT_Bio-optical_Cals_V3.pdf">S-MODE PILOT BIO-OPTICAL REPORT</a></h1>
 
