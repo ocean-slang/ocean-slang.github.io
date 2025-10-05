@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Airborne remote sensing of submesoscale dynamics and phytoplankton
-description:  
+description: In press in AGU's Earth and Space Science
 img: assets/img/plane_schematic.png
 importance: 2
 category: work
