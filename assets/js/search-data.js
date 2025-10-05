@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-airborne-remote-sensing-of-submesoscale-dynamics-and-phytoplankton",
           title: 'Airborne remote sensing of submesoscale dynamics and phytoplankton',
-          description: "",
+          description: "In press in AGU&#39;s Earth and Space Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-go-swace",
