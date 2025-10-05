@@ -54,7 +54,7 @@ Maps of estimated POC flux for the three remote sensing snapshots Oct. 26M (a), 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JPDF.png" title="vort-strain diagrams" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JPDF(1).png" title="vort-strain diagrams" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
