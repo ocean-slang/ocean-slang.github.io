@@ -19,21 +19,21 @@ Abstract: Modeling studies have shown that submesoscale (1-10 km) vertical veloc
 <div class="caption">
 Log-10 chl-a from Sentinel-3 Ocean and Land Colour Instrument (OLCI, 0.3 km spatial resolution) in the study region off the coast of San Francisco, California. The black box represents the frontal domain of interest in this study, of which chl-a and SST fields are plotted in plotted in figure below (e-l). The red box represents the area of the mesoscale field plotted in figure below (a-d), which sets up the front of interest. Photos of the following measurement platforms used in this study: M/V Bold Horizon, DopplerScatt onboard the King Air B-200, and Sentinel-3. Vorticity derived from DopplerScatt surface currents with Sentinel-3 chl-a contour overlain in black (inset map). Numbers on contours are in units [mg m<sup>-3</sup>]. 'Upstream' domain represents an earlier stage of frontal evolution characterized by a sharper front and 'downstream' represents a later, more unstable, stage of frontal evolution characterized by instability and filament development. (Credits for three measurement platform photos: Alex Wineteer, Judy Alfter, European Space Agency)</div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Figure1_horizontal(1).png" title="Overview of mesoscale flow field and evolution of front" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Sentinel-3 OLCI chl-a on October 23, 24, 26, and 27, 2022 with COPERNICUS-GLOBCURRENT geostrophic streamlines overlain in black (a-d). 16˚ contour overlain in pink shows that larger high chl-a plume extending offshore is associated with colder waters (a). Frontal region of interest denoted by black boxes (a-d). Chl-a plotted for frontal region of interest (e-h) with EcoCTD transects (red lines) overlain (i-g). Five transects surveyed the front between October 23-25 (red lines, e,f) and one transect surveyed the submesoscale filament on October 26 (red line, g). Sentinel-3 SLSTR SST plotted for frontal region of interest (i-l) with same day DopplerScatt total current streamlines overlain in black (k,l). Differences in gradients and locations of frontal boundaries between co-located chl-a and SST may arise due to sloping isopycnals and sensor integration depth differences (Lang et al., 2025), the influence of biological processes on chl-a distributions, or the coarser spatial resolution of SST relative to chl-a (1 km vs. 0.3 km).)</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/scaled_PDFs(1).png" title="pdf" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Vertical heat flux scaled to particulate organic carbon, plotted against POC flux (a). 1:1 line in black. Overlapping histograms of POC flux (green) and vertical heat flux scaled to POC flux (pink) (b).)</div>
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/Figure1_horizontal(1).png" title="Overview of mesoscale flow field and evolution of front" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Sentinel-3 OLCI chl-a on October 23, 24, 26, and 27, 2022 with COPERNICUS-GLOBCURRENT geostrophic streamlines overlain in black (a-d). 16˚ contour overlain in pink shows that larger high chl-a plume extending offshore is associated with colder waters (a). Frontal region of interest denoted by black boxes (a-d). Chl-a plotted for frontal region of interest (e-h) with EcoCTD transects (red lines) overlain (i-g). Five transects surveyed the front between October 23-25 (red lines, e,f) and one transect surveyed the submesoscale filament on October 26 (red line, g). Sentinel-3 SLSTR SST plotted for frontal region of interest (i-l) with same day DopplerScatt total current streamlines overlain in black (k,l). Differences in gradients and locations of frontal boundaries between co-located chl-a and SST may arise due to sloping isopycnals and sensor integration depth differences (Lang et al., 2025), the influence of biological processes on chl-a distributions, or the coarser spatial resolution of SST relative to chl-a (1 km vs. 0.3 km).)</div>-->
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/scaled_PDFs(1).png" title="pdf" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Vertical heat flux scaled to particulate organic carbon, plotted against POC flux (a). 1:1 line in black. Overlapping histograms of POC flux (green) and vertical heat flux scaled to POC flux (pink) (b).)</div>-->
 
 
 <div class="row">
@@ -43,57 +43,57 @@ Vertical heat flux scaled to particulate organic carbon, plotted against POC flu
 </div>
 <div class="caption">
 Maps of estimated POC flux for the three remote sensing snapshots Oct. 26M (a), Oct. 26A (b), and Oct. 27M (c). Green indicates positive, or upward, fluxes of POC caused by either the upwelling of high POC water or downwelling of low POC water. Blue indicates negative, or downward, fluxes of POC caused by either the downwelling of high POC water or the upwelling of low POC water. 'SF1' represents subducted filament of interest plotted below, area denoted by dashed red lines.)</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lineplot(2).png" title="lineplots" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-5-km binned and averaged SST (red) and POC (green) anomalies plotted against distance across front (a). Binned and averaged positive (pink), negative (light blue), and net (black) vertical velocities plotted against distance across front (b). Binned and averaged positive (green), negative (blue), and net (black) POC fluxes plotted against distance across from front (e). Binned and averaged positive (red), negative (blue), and net (black) vertical heat fluxes (VHF) plotted against distance across from front (d). Thin solid black lines represent net averages in the upstream domain only, and thin dashed black lines represent net averages downstream (b-d). Error bars represent ±1 standard deviation away from the mean.)</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JPDF(1).png" title="vort-strain diagrams" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Joint probability distribution function of vorticity and strain (a; Shcherbina et al., 2013). Distance from front (b), POC flux (c), and vertical heat flux (VHF, d) plotted in vorticity-strain space. Dashed lines represent 1:1 lines.)</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sf1(4).png" title="surface kinematics of dense filament, high in particulate organic carbon" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Vorticity (zeta/f), strain (sigma/f, b,g), vertical velocities (c,h), POC anomaly (d,i), and POC flux (e,j) plotted at 'SF1' for Oct. 26M (a-e) and Oct. 26A (f-j). Vorticity and strain normalized by the coriolis parameter, f.)</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/meso_ecoctd(3).png" title="mesoscale ecoctd profile" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Vertical EcoCTD profiles of hydrographic and bio-optical properties, averaged and binned (500 m horizontal bins) in an across frontal reference frame. Chlorophyll-fluorescence (chl-fl, a), particulate organic carbon (POC, b), salinity (c), temperature (d), M2 (e), N2 (f), along-frontal velocity (u, g), and across-frontal velocity (v, h) plotted against distance across front on the x-axis. Isopycnals overlain in black and labeled with corresponding density anomalies. Averaged mixed layer depth plotted in red (a-h). Standard deviation plotted in shaded pink (a).)</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/submeso_ecoctd(2).png" title="submes ecoctd" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Vertical EcoCTD profiles of hydrographic and bio-optical properties at ’SF1’, binned (500 m horizontal bins) in an across frontal reference frame, as in figure above.)</div>
-
-The ’study front’ is a part of a consistent feature of the seasonal mesoscale field.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/climatology(1).png" title="clima" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-Monthly Sentinel-3A chl-a climatologies (2018-2024; NASA Ocean Biology Processing
-Group) overlain by geostrophic streamlines from absolute geostrophic velocity anomalies (1993-2022; SSALTO/DUACS) for January (a), April (b), July (c), and October (d). Study region and frontal region in red.)</div>
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/lineplot(2).png" title="lineplots" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--5-km binned and averaged SST (red) and POC (green) anomalies plotted against distance across front (a). Binned and averaged positive (pink), negative (light blue), and net (black) vertical velocities plotted against distance across front (b). Binned and averaged positive (green), negative (blue), and net (black) POC fluxes plotted against distance across from front (e). Binned and averaged positive (red), negative (blue), and net (black) vertical heat fluxes (VHF) plotted against distance across from front (d). Thin solid black lines represent net averages in the upstream domain only, and thin dashed black lines represent net averages downstream (b-d). Error bars represent ±1 standard deviation away from the mean.)</div>-->
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/JPDF(1).png" title="vort-strain diagrams" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Joint probability distribution function of vorticity and strain (a; Shcherbina et al., 2013). Distance from front (b), POC flux (c), and vertical heat flux (VHF, d) plotted in vorticity-strain space. Dashed lines represent 1:1 lines.)</div>-->
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/sf1(4).png" title="surface kinematics of dense filament, high in particulate organic carbon" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Vorticity (zeta/f), strain (sigma/f, b,g), vertical velocities (c,h), POC anomaly (d,i), and POC flux (e,j) plotted at 'SF1' for Oct. 26M (a-e) and Oct. 26A (f-j). Vorticity and strain normalized by the coriolis parameter, f.)</div>-->
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/meso_ecoctd(3).png" title="mesoscale ecoctd profile" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Vertical EcoCTD profiles of hydrographic and bio-optical properties, averaged and binned (500 m horizontal bins) in an across frontal reference frame. Chlorophyll-fluorescence (chl-fl, a), particulate organic carbon (POC, b), salinity (c), temperature (d), M2 (e), N2 (f), along-frontal velocity (u, g), and across-frontal velocity (v, h) plotted against distance across front on the x-axis. Isopycnals overlain in black and labeled with corresponding density anomalies. Averaged mixed layer depth plotted in red (a-h). Standard deviation plotted in shaded pink (a).)</div>-->
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/submeso_ecoctd(2).png" title="submes ecoctd" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Vertical EcoCTD profiles of hydrographic and bio-optical properties at ’SF1’, binned (500 m horizontal bins) in an across frontal reference frame, as in figure above.)</div>-->
+<!---->
+<!--The ’study front’ is a part of a consistent feature of the seasonal mesoscale field.-->
+<!---->
+<!--<div class="row">-->
+<!--    <div class="col-sm mt-3 mt-md-0">-->
+<!--        {% include figure.liquid loading="eager" path="assets/img/climatology(1).png" title="clima" class="img-fluid rounded z-depth-1" %}-->
+<!--    </div>-->
+<!--</div>-->
+<!--<div class="caption">-->
+<!--Monthly Sentinel-3A chl-a climatologies (2018-2024; NASA Ocean Biology Processing-->
+<!--Group) overlain by geostrophic streamlines from absolute geostrophic velocity anomalies (1993-2022; SSALTO/DUACS) for January (a), April (b), July (c), and October (d). Study region and frontal region in red.)</div>-->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
