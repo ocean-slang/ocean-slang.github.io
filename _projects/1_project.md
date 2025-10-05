@@ -29,7 +29,7 @@ Sentinel-3 OLCI chl-a on October 23, 24, 26, and 27, 2022 with COPERNICUS-GLOBCU
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/scaled_PDFs(1).png.png" title="pdf" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/scaled_PDFs(1).png" title="pdf" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
