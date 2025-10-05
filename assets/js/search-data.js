@@ -428,7 +428,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-go-swace",
           title: 'GO-SWACE',
-          description: "",
+          description: "Combining NASA PACE, SWOT, and Argo floats to uncover the eddy dynamics impacting phytoplankton community groups.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-modeling-coastal-water-clarity-using-landsat-8-and-sentinel-2",
