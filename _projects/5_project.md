@@ -6,7 +6,7 @@ img: assets/img/smode.png
 importance: 5
 category: fun
 ---
-<p> Click on headers for data portal and report links <\p>
+Click on headers for data portal and report links
 
 <h1><a href="https://podaac.jpl.nasa.gov/S-MODE">S-MODE DATA</a></h1>
 
