@@ -19,8 +19,28 @@ NASA Sub-Mesoscale Ocean Dynamics Experiment (S-MODE) Intensive Operations Perio
 
 University of Virginia’s Anheuser-Busch Research Center at the Virginia Coast Reserve coastal water quality and ecological sampling, Summer 2019
 
-<embed src="https://science.nasa.gov/blogs/earth-expeditions/2022/10/26/life-at-sea-a-first-timer-chronicles-nasas-s-mode-field-campaign/" style="width:800px; height: 500px;">
+SMODE photos
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork1.png" title="fieldwork 1" %}
+    </div>
+</div>
+<div class="caption"> )</div>
 
-<embed src="https://science.nasa.gov/blogs/earth-expeditions/2022/11/21/nasas-s-mode-mission-sea-ing-through-rainbow-colored-glasses/" style="width:800px; height: 500px;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fieldwork2.png" title="fieldwork 2" %}
+    </div>
+</div>
+<div class="caption"> )</div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aaJoF5X6a24?si=2ohhybYzNipzIfHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+NASA blogs:
+
+<a href="https://science.nasa.gov/blogs/earth-expeditions/2022/10/26/life-at-sea-a-first-timer-chronicles-nasas-s-mode-field-campaign/">Life at Sea: A “First-Timer” Chronicles NASA’s S-MODE Field Campaign
+</a>
+
+<a href="https://science.nasa.gov/blogs/earth-expeditions/2022/11/21/nasas-s-mode-mission-sea-ing-through-rainbow-colored-glasses/">NASA’s S-MODE Mission: “Sea-ing” through Rainbow-Colored Glasses
+
+</a>
