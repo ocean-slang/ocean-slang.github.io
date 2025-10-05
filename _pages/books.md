@@ -27,7 +27,7 @@ nav_order: 7
     <p style="color:DeepPink;">University of Virginia’s Anheuser-Busch Research Center at the Virginia Coast Reserve coastal water quality and ecological sampling, Summer 2019
     </p>
 
-<h1 style="color:powderblue;"><strong>SMODE photos</strong></h1>
+<h1 style="color:steelblue;"><strong>SMODE photos</strong></h1>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,11 +43,11 @@ nav_order: 7
 </div>
 <div class="caption"> )</div>
 
-<h1 style="color:powderblue;"><strong>NASA Earth Video</strong></h1>
+<h1 style="color:steelblue;"><strong>NASA Earth Video</strong></h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aaJoF5X6a24?si=2ohhybYzNipzIfHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h1 style="color:powderblue;"><strong>NASA Blogs</strong></h1>
+<h1 style="color:steelblue;"><strong>NASA Blogs</strong></h1>
 
 <a href="https://science.nasa.gov/blogs/earth-expeditions/2022/10/26/life-at-sea-a-first-timer-chronicles-nasas-s-mode-field-campaign/">Life at Sea: A “First-Timer” Chronicles NASA’s S-MODE Field Campaign
 </a>
@@ -55,7 +55,7 @@ nav_order: 7
 <a href="https://science.nasa.gov/blogs/earth-expeditions/2022/11/21/nasas-s-mode-mission-sea-ing-through-rainbow-colored-glasses/">NASA’s S-MODE Mission: “Sea-ing” through Rainbow-Colored Glasses
 </a>
 
-<h1 style="color:powderblue;"><strong>NASA Ames Earth Day Event</strong></h1>
+<h1 style="color:steelblue;"><strong>NASA Ames Earth Day Event</strong></h1>
 <a href="https://espo.nasa.gov/impacts/content/Dr_Brenna_Biggs_Presents_%E2%80%9CWave%E2%80%9D_Hello_to_NASA_S-MODE_A_Study_of_Sub-Mesoscale_Ocean">Dr. Brenna Biggs Presents “Wave” Hello to NASA S-MODE: A Study of Sub-Mesoscale Ocean Processes
 </a>
 
