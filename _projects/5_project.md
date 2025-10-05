@@ -7,8 +7,6 @@ importance: 5
 category: fun
 ---
 
-Coming soon!
-
 [S-MODE DATA](https://podaac.jpl.nasa.gov/S-MODE)
 
 <a href="https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/s-mode/docs/SMODE_PILOT_Bio-optical_Cals_V3.pdf">S-MODE PILOT BIO-OPTICAL REPORT</a>
