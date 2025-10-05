@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GO-SWACE
-description:
+description: Combining NASA PACE, SWOT, and Argo floats to uncover the eddy dynamics impacting phytoplankton community groups.
 img: assets/img/Edward.png
 importance: 3
 category: work
