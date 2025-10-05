@@ -32,7 +32,7 @@ Hello! My name is Sarah Lang and I am a PhD candidate at the Graduate School of 
 
 <p style="color:steelblue;">I am planning to defend my PhD in late spring 2026 and am currently looking for a post-doc position!</p>
 
-(This website is continually being updated.)
+<i>(This website is continually being updated.)</i>
 
 Find me on [Google Scholar](https://scholar.google.com/citations?user=_1ntVBIAAAAJ&hl=en&oi=sra), [LinkedIn](https://www.linkedin.com/in/sarah-lang-153642215/), and [BlueSky](https://bsky.app/profile/sarahelang.bsky.social).
 
