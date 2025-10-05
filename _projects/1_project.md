@@ -46,6 +46,14 @@ Maps of estimated POC flux for the three remote sensing snapshots Oct. 26M (a), 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/lineplot(2).png" title="lineplots" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+5-km binned and averaged SST (red) and POC (green) anomalies plotted against distance across front (a). Binned and averaged positive (pink), negative (light blue), and net (black) vertical velocities plotted against distance across front (b). Binned and averaged positive (green), negative (blue), and net (black) POC fluxes plotted against distance across from front (e). Binned and averaged positive (red), negative (blue), and net (black) vertical heat fluxes (VHF) plotted against distance across from front (d). Thin solid black lines represent net averages in the upstream domain only, and thin dashed black lines represent net averages downstream (b-d). Error bars represent ±1 standard deviation away from the mean.)</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JPDF.png" title="vort-strain diagrams" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -75,6 +83,8 @@ Vertical EcoCTD profiles of hydrographic and bio-optical properties, averaged an
 </div>
 <div class="caption">
 Vertical EcoCTD profiles of hydrographic and bio-optical properties at ’SF1’, binned (500 m horizontal bins) in an across frontal reference frame, as in figure above.)</div>
+
+The ’study front’ is a part of a consistent feature of the seasonal mesoscale field.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
