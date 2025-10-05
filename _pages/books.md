@@ -25,8 +25,8 @@ nav_order: 7
       <li>Similar responsibilities to S-MODE IOP-2. Flow-through system also included BB3 (Sea-bird) and WETlabs CDOM fluorometer.</li>
     </ul>
 
-    <p style="color:DeepPink;">University of Virginia’s Anheuser-Busch Research Center at the Virginia Coast Reserve coastal water quality and ecological sampling, Summer 2019
-    </p>
+<p style="color:DeepPink;">University of Virginia’s Anheuser-Busch Research Center at the Virginia Coast Reserve coastal water quality and ecological sampling, Summer 2019
+</p>
 
 <br>
 
