@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cv
-permalink: /realcv/
+permalink: /cv/
 nav: true
 nav_order: 5
 ---
