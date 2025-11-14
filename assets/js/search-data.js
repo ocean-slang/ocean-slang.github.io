@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/realcv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-mentorship",
           title: "mentorship",
@@ -400,12 +400,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
@@ -418,12 +413,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-estimating-eddy-driven-particulate-organic-carbon-flux-from-remote-sensing-at-a-dynamic-upwelling-front",
           title: 'Estimating eddy-driven particulate organic carbon flux from remote sensing at a dynamic upwelling...',
-          description: "Manuscript in prep",
+          description: "Submitted",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-airborne-remote-sensing-of-submesoscale-dynamics-and-phytoplankton",
           title: 'Airborne remote sensing of submesoscale dynamics and phytoplankton',
-          description: "In press in AGU&#39;s Earth and Space Science",
+          description: "Published in AGU Earth and Space Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-go-swace",
