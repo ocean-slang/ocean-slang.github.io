@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://web.uri.edu/gso/meet/sarah-lang/'>Graduate School of Oceanography, University of Rhode Island</a>. slang@uri.edu
+subtitle: <strong><a href='https://web.uri.edu/gso/meet/sarah-lang/'>Graduate School of Oceanography, University of Rhode Island</a></strong>. slang@uri.edu
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Sarah Lang and I am a <strong>PhD candidate<\strong> at the Graduate School of Oceanography at the University of Rhode Island. I study <strong>Physical Oceanography<\strong> (advisor: Dr. Melissa Omand). I work with aircraft, satellite, and in situ observations to better understand the <strong>impacts of (sub)mesoscale dynamics on phytoplankton and carbon export<\strong>.
+Hello! My name is Sarah Lang and I am a <strong>PhD candidate</strong> at the Graduate School of Oceanography at the University of Rhode Island. I study <strong>Physical Oceanography</strong> (advisor: Dr. Melissa Omand). I work with aircraft, satellite, and in situ observations to better understand the <strong>impacts of (sub)mesoscale dynamics on phytoplankton and carbon export</strong>.
 
 <p style="color:steelblue;">I am planning to defend my PhD in late spring 2026 and am currently looking for a post-doc position!</p>
 
