@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>slang@uri.edu</p>
     <p>Student at URI, based in Seattle</p>
-    <p>Ocean Sciences Bldg, University of Washington, Office OCN 318</p>
+    <p>Ocean Sciences Bldg, University of Washington, Office OCN 339B</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Sarah Lang and I am a PhD candidate at the Graduate School of Oceanography at the University of Rhode Island. 
-
+Hello! My name is Sarah Lang and I am a <strong>PhD candidate<\strong> at the Graduate School of Oceanography at the University of Rhode Island. I study <strong>Physical Oceanography<\strong> (advisor: Dr. Melissa Omand). I work with aircraft, satellite, and in situ observations to better understand the <strong>impacts of (sub)mesoscale dynamics on phytoplankton and carbon export<\strong>.
 
 <p style="color:steelblue;">I am planning to defend my PhD in late spring 2026 and am currently looking for a post-doc position!</p>
 
