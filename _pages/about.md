@@ -29,7 +29,7 @@ latest_posts:
 
 Hello! My name is Sarah Lang and I am a <strong>PhD candidate</strong> at the Graduate School of Oceanography at the University of Rhode Island. I study <strong>Physical Oceanography</strong> (advisor: Dr. Melissa Omand). I work with aircraft, satellite, and in situ observations to better understand the <strong>impacts of (sub)mesoscale dynamics on phytoplankton and carbon export</strong>.
 
-<p style="color:steelblue;">I am planning to defend my PhD in late spring 2026 and am currently looking for a post-doc position!</p>
+<p style="color:steelblue;">I will be starting a postdoctoral research position at Scripps Institution of Oceanography in August 2026, working with Dr. Filipe Pereira.</p>
 
 <i>(This website is continually being updated.)</i>
 
