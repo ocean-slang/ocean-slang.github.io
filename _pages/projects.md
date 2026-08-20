@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+Coming soon: Current postdoc research projects
 
 <!-- pages/projects.md -->
 <div class="projects">
