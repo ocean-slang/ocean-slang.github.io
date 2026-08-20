@@ -411,9 +411,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-estimating-eddy-driven-particulate-organic-carbon-flux-from-remote-sensing-at-a-dynamic-upwelling-front",
-          title: 'Estimating eddy-driven particulate organic carbon flux from remote sensing at a dynamic upwelling...',
-          description: "Submitted",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-airborne-remote-sensing-of-submesoscale-dynamics-and-phytoplankton",
@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-go-swace",
           title: 'GO-SWACE',
-          description: "Combining NASA PACE, SWOT, and Argo floats to uncover the eddy dynamics impacting phytoplankton community groups.",
+          description: "Lagrangian evolution of phytoplankton patchiness and structure in a cyclonic Gulf Stream eddy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-modeling-coastal-water-clarity-using-landsat-8-and-sentinel-2",
