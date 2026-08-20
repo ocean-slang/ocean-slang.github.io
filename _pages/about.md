@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong><a href='https://web.uri.edu/gso/meet/sarah-lang/'>Graduate School of Oceanography, University of Rhode Island</a></strong>. slang@uri.edu
+subtitle: <strong>Scripps Institution of Oceanography, University of San Diego California</strong>. sarahlang@ucsd.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>slang@uri.edu</p>
-    <p>Student at URI, based in Seattle</p>
-    <p>Ocean Sciences Bldg, University of Washington, Office OCN 339B</p>
+    <p>sarahlang@ucsd.edu</p>
+    <p>Postdoc at Scripps, based in San Diego</p>
+    <p>Marine Physical Laboratory</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,5 +33,5 @@ Hello! My name is Sarah Lang and I am a <strong>PhD candidate</strong> at the Gr
 
 <i>(This website is continually being updated.)</i>
 
-Find me on [Google Scholar](https://scholar.google.com/citations?user=_1ntVBIAAAAJ&hl=en&oi=sra), [LinkedIn](https://www.linkedin.com/in/sarah-lang-153642215/), and [BlueSky](https://bsky.app/profile/sarahelang.bsky.social).
+Find me on [Google Scholar](https://scholar.google.com/citations?user=nC2f7J4AAAAJ&hl=en&authuser=2) and [LinkedIn](https://www.linkedin.com/in/sarah-lang-153642215/)
 

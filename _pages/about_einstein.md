@@ -1,3 +1,5 @@
-Hello! My name is Sarah Lang and I am a PhD candidate at the Graduate School of Oceanography at the University of Rhode Island. This website is under construction.
+Hello! My name is Sarah Lang and I am a Postdoctoral Research Scholar at Scripps Institution of Oceanography.
 
-Find me on [Google Scholar](https://scholar.google.com/citations?user=_1ntVBIAAAAJ&hl=en&oi=sra), [LinkedIn](https://www.linkedin.com/in/sarah-lang-153642215/), and [BlueSky](https://bsky.app/profile/sarahelang.bsky.social).
+I recently graduated with my PhD from the Graduate School of Oceanography at the University of Rhode Island.
+
+Find me on [Google Scholar](https://scholar.google.com/citations?user=nC2f7J4AAAAJ&hl=en&authuser=2) and  [LinkedIn](https://www.linkedin.com/in/sarah-lang-153642215/)

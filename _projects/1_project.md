@@ -7,7 +7,8 @@ importance: 1
 category: work
 related_publications: false
 ---
-Sarah E. Lang, Melissa M. Omand, Mara A. Freilich, Andrey Y. Shcherbina, J. Thomas Farrar, Leo Middleton, Ernesto Rodríguez. Estimating submesoscale-driven particulate organic carbon flux from remote sensing at a dynamic upwelling front. Submitted.
+Lang, S. E., Omand, M. M., Freilich, M. A., Shcherbina, A. Y., Farrar, J. T.,
+Middleton, L., & Rodríguez, E. (2026). Estimating submesoscale‐driven particulate organic carbon flux from remote sensing at a dynamic upwelling front. Journal of Geophysical Research: Oceans, 131, e2025JC023752. https://doi.org/10.1029/2025JC023752
 
-Pre-print, not published or peer reviewed
-<embed src="https://ocean-slang.github.io/assets/pdf/Estimating_submeso_POC_flux__Draft_V5.pdf" style="width:800px; height: 1000px;">
+<embed src="https://ocean-slang.github.io/assets/pdf/Estimating_submeso_POC_flux.pdf" style="width:800px; height: 1000px;">
+ 
