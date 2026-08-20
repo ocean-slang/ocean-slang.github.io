@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GO-SWACE
+title: Lagrangian evolution of Gulf Stream cold core ring
 description: Lagrangian evolution of phytoplankton patchiness and structure in a cyclonic Gulf Stream eddy.
 img: assets/img/Edward.png
 importance: 3
