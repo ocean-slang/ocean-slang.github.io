@@ -411,9 +411,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-estimating-eddy-driven-particulate-organic-carbon-flux-from-remote-sensing-at-a-dynamic-upwelling-front",
+          title: 'Estimating eddy-driven particulate organic carbon flux from remote sensing at a dynamic upwelling...',
+          description: "Published in JGR Oceans",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-airborne-remote-sensing-of-submesoscale-dynamics-and-phytoplankton",
