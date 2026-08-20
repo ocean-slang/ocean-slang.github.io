@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modeling Coastal Water Clarity Using Landsat-8 and Sentinel-2
-description: undergrad research work
+description: Published in AGU Earth and Space Science. Undergrad research.
 img: assets/img/l8s2.png
 importance: 4
 category: fun
