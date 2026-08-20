@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Sarah Lang and I am a Postdoctoral Research Scholar at <strong>Scripps Institution of Oceanography</strong>. I work with a variety of tools and observational approaches to better understand the <strong>impacts of (sub)mesoscale dynamics on phytoplankton and carbon export</strong>. 
+Hello! My name is Sarah Lang and I am a Postdoctoral Research Scholar at <strong>Scripps Institution of Oceanography</strong>. I work with a variety of tools and observational approaches to better understand the <strong>impacts of (sub)mesoscale dynamics on phytoplankton and carbon export</strong>.  
 
 My project page contains an overview of my Ph.D. work. My current postdoc projects will be included soon.
 
