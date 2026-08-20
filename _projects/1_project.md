@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estimating eddy-driven particulate organic carbon flux from remote sensing at a dynamic upwelling front
-description: Submitted
+description: Published in JGR: Oceans
 img: assets/img/chl_eddy.png
 importance: 1
 category: work
