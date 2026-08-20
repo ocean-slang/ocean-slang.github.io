@@ -421,8 +421,8 @@ ninja.data = [{
           description: "Published in AGU Earth and Space Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-go-swace",
-          title: 'GO-SWACE',
+            },},{id: "projects-lagrangian-evolution-of-gulf-stream-cold-core-ring",
+          title: 'Lagrangian evolution of Gulf Stream cold core ring',
           description: "Lagrangian evolution of phytoplankton patchiness and structure in a cyclonic Gulf Stream eddy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
