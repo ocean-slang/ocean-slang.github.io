@@ -428,7 +428,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-modeling-coastal-water-clarity-using-landsat-8-and-sentinel-2",
           title: 'Modeling Coastal Water Clarity Using Landsat-8 and Sentinel-2',
-          description: "undergrad research work",
+          description: "Published in AGU Earth and Space Science. Undergrad research.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-nasa-s-mode-bio-optical-calibrations",
