@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="images/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <title>Fieldwork | Sarah E. Lang</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500;600&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a class="site-name" href="index.html">Sarah E. Lang</a>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="research.html">Research</a>
+        <a href="cv.html">CV</a>
+        <a href="mentorship.html">Mentorship</a>
+        <a href="fieldwork.html" class="active">Fieldwork</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="banner">
+    <div class="container">
+      <h1>Fieldwork</h1>
+    </div>
+    <svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,32 C240,64 480,0 720,24 C960,48 1200,8 1440,30 L1440,60 L0,60 Z"></path>
+    </svg>
+  </section>
+
+  <main>
+    <div class="container">
+
+      <div class="stat"><strong>75</strong> total days at sea</div>
+
+      <!--
+        HOW TO EDIT A CRUISE
+        Each <article class="cruise card"> is one expedition.
+        - Photos with class="zoom" open larger when clicked (code at the bottom of this page).
+        - NOPP photos: images/nopp1.jpg ... images/nopp6.jpg.
+          To add a caption, wrap the image in <figure> and add
+          <figcaption>Your caption</figcaption> after it.
+        - For a cruise with no photo, use class="cruise card no-photo"
+          and delete the photo part.
+      -->
+
+      <section class="section">
+        <h2 class="section-title">Research cruises</h2>
+
+        <!-- ===== NOPP2-Amazon ===== -->
+        <article class="cruise card no-photo">
+          <div>
+            <span class="tag">October 1 – 17, 2026</span>
+            <h3>Internal Wave Resolving Array NOPP2-Amazon Deployment Cruise</h3>
+            <p class="entry-sub">The National Oceanographic Partnership Program (NOPP) &middot; Amazon River Plume</p>
+            <p class="role">Wirewalker and biological sampling lead</p>
+            <ul>
+              <li>Responsible for programming and calibrating instruments on the Wirewalker: Signature 1000 ADCP in high resolution mode (turbulence), RBR Tridente (chl-fl and backscatter), RBR Quadrante radiometer, SUNA nitrate sensor, RBR Concerto CTD, RBR ODO optical dissolved oxygen, and PAR sensor.</li>
+              <li>Tracked and forecasted the Wirewalker's trajectory using ocean forecast models and Lagrangian particle tracking, as the Wirewalker freely drifted with a surface float.</li>
+              <li>Led sampling for chlorophyll-a and nutrients for Wirewalker calibrations.</li>
+            </ul>
+
+            <div class="photo-grid">
+              <a class="zoom-link" href="images/nopp1.jpg"><img class="zoom" src="images/nopp1.jpg" alt="NOPP2-Amazon cruise photo 1"></a>
+              <a class="zoom-link" href="images/nopp2.jpg"><img class="zoom" src="images/nopp2.jpg" alt="NOPP2-Amazon cruise photo 2"></a>
+              <a class="zoom-link" href="images/nopp3.jpg"><img class="zoom" src="images/nopp3.jpg" alt="NOPP2-Amazon cruise photo 3"></a>
+              <a class="zoom-link" href="images/nopp4.jpg"><img class="zoom" src="images/nopp4.jpg" alt="NOPP2-Amazon cruise photo 4"></a>
+              <a class="zoom-link" href="images/nopp5.jpg"><img class="zoom" src="images/nopp5.jpg" alt="NOPP2-Amazon cruise photo 5"></a>
+              <a class="zoom-link" href="images/nopp6.jpg"><img class="zoom" src="images/nopp6.jpg" alt="NOPP2-Amazon cruise photo 6"></a>
+            </div>
+          </div>
+        </article>
+
+        <!-- ===== S-MODE IOP-2 ===== -->
+        <article class="cruise card">
+          <div>
+            <span class="tag">April 8 – May 3, 2023</span>
+            <h3>NASA Sub-Mesoscale Ocean Dynamics Experiment (S-MODE) IOP-2 Research Cruise</h3>
+            <p class="entry-sub">North Pacific Ocean</p>
+            <p class="role">Optical flow-through system lead</p>
+            <ul>
+              <li>Responsible for the set-up, operation, and data collection of an AC-S Spectral Absorption and Attenuation Sensor (Sea-Bird Scientific), Imaging FlowCytobot (McLane Research Laboratories), chlorophyll fluorometer (Sea-Bird), and C-Star transmissometer (Sea-Bird).</li>
+              <li>Calibrated ship-based and autonomous-vehicle-based (e.g. Saildrones, Wave Gliders, Seagliders) optical instruments for the 3 S-MODE field campaigns. Created optical proxies for chlorophyll-a and particulate organic carbon.</li>
+              <li>Sampled and filtered seawater for biological parameters including chlorophyll-a, nutrients, pigments, and particulate organic carbon.</li>
+              <li>Contributed to the planning of bio-optical sampling strategies.</li>
+            </ul>
+          </div>
+          <a class="zoom-link" href="images/smode-fieldwork-1.jpg"><img class="zoom" src="images/smode-fieldwork-1.jpg" alt="Working with the optical flow-through system aboard the ship" style="border-radius: var(--radius);"></a>
+        </article>
+
+        <!-- ===== S-MODE IOP-1 ===== -->
+        <article class="cruise card">
+          <div>
+            <span class="tag">October 3 – November 1, 2022</span>
+            <h3>NASA Sub-Mesoscale Ocean Dynamics Experiment (S-MODE) IOP-1 Research Cruise</h3>
+            <p class="entry-sub">North Pacific Ocean</p>
+            <p class="role">Optical flow-through system lead</p>
+            <ul>
+              <li>Similar responsibilities to S-MODE IOP-2. Flow-through system also included BB3 (Sea-Bird) and WETLabs CDOM fluorometer.</li>
+            </ul>
+          </div>
+          <a class="zoom-link" href="images/smode-fieldwork-2.jpg"><img class="zoom" src="images/smode-fieldwork-2.jpg" alt="Deck operations and sampling during S-MODE" style="border-radius: var(--radius);"></a>
+        </article>
+
+        <!-- ===== UVA ===== -->
+        <article class="cruise card no-photo">
+          <div>
+            <span class="tag">Summer 2019</span>
+            <h3>Virginia Coast Reserve Long Term Ecological Research, Water Quality Survey</h3>
+          </div>
+        </article>
+      </section>
+
+      <!-- ================= MEDIA ================= -->
+      <section class="section">
+        <h2 class="section-title">From the field</h2>
+
+        <div class="feature">
+          <div class="video">
+            <iframe src="https://www.youtube.com/embed/aaJoF5X6a24" title="A Month at Sea: Scientists Prepare to Set Sail for NASA's S-MODE Mission" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+          <ul class="link-list" style="margin-top: 0;">
+            <li><span class="kind">NASA Goddard video</span>
+              <a href="https://www.youtube.com/watch?v=aaJoF5X6a24">A Month at Sea: Scientists Prepare to Set Sail for NASA's S-MODE Mission</a></li>
+            <li><span class="kind">NASA blog</span>
+              <a href="https://science.nasa.gov/blogs/earth-expeditions/2022/10/26/life-at-sea-a-first-timer-chronicles-nasas-s-mode-field-campaign/">Life at Sea: A "First-Timer" Chronicles NASA's S-MODE Field Campaign</a></li>
+            <li><span class="kind">NASA blog</span>
+              <a href="https://science.nasa.gov/blogs/earth-expeditions/2022/11/21/nasas-s-mode-mission-sea-ing-through-rainbow-colored-glasses/">NASA's S-MODE Mission: "Sea-ing" through Rainbow-Colored Glasses</a></li>
+            <li><span class="kind">NASA Ames Earth Day event</span>
+              <a href="https://espo.nasa.gov/impacts/content/Dr_Brenna_Biggs_Presents_%E2%80%9CWave%E2%80%9D_Hello_to_NASA_S-MODE_A_Study_of_Sub-Mesoscale_Ocean">Dr. Brenna Biggs Presents "Wave" Hello to NASA S-MODE: A Study of Sub-Mesoscale Ocean Processes</a></li>
+          </ul>
+        </div>
+
+        <div class="gallery" style="margin-top: 28px;">
+          <figure>
+            <a class="zoom-link" href="images/nasa-ames-earth-day.jpg"><img class="zoom" src="images/nasa-ames-earth-day.jpg" alt="NASA Ames Earth Day event panel"></a>
+            <figcaption>NASA Ames Earth Day event</figcaption>
+          </figure>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span>&copy; 2026 Sarah E. Lang</span>
+      <span><a href="mailto:sarahlang@ucsd.edu">sarahlang@ucsd.edu</a></span>
+    </div>
+  </footer>
+
+  <script>
+  /* =========================================================
+     Click-to-enlarge photos
+     ---------------------------------------------------------
+     Each photo is wrapped in <a class="zoom-link" href="...">.
+     With this script, clicking opens the photo large on a dark
+     background (Esc / x / click outside to close, arrow keys
+     to step through photos). If the script can't run, the link
+     still opens the full-size photo on its own.
+     To add a photo, copy one of the <a class="zoom-link"> lines.
+     ========================================================= */
+  (function () {
+    var links = Array.prototype.slice.call(document.querySelectorAll("a.zoom-link"));
+    var box = document.createElement("dialog");
+    if (!links.length || typeof box.showModal !== "function") return;
+
+    box.className = "lightbox";
+    box.innerHTML =
+      '<button class="lb-btn lb-close" aria-label="Close">&times;</button>' +
+      '<button class="lb-btn lb-prev" aria-label="Previous photo">&#8249;</button>' +
+      '<figure><img alt=""><figcaption></figcaption></figure>' +
+      '<button class="lb-btn lb-next" aria-label="Next photo">&#8250;</button>';
+    document.body.appendChild(box);
+
+    var big = box.querySelector("img");
+    var cap = box.querySelector("figcaption");
+    var current = 0;
+
+    function show(n) {
+      current = (n + links.length) % links.length;
+      var link = links[current];
+      var thumb = link.querySelector("img");
+      big.src = link.href;
+      big.alt = thumb ? thumb.alt : "";
+      var fig = link.closest("figure");
+      var fc = fig ? fig.querySelector("figcaption") : null;
+      cap.textContent = fc ? fc.textContent.trim() : "";
+      cap.hidden = !cap.textContent;
+    }
+
+    links.forEach(function (link, n) {
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+        show(n);
+        box.showModal();
+      });
+    });
+
+    box.querySelector(".lb-close").addEventListener("click", function () { box.close(); });
+    box.querySelector(".lb-prev").addEventListener("click", function (e) { e.stopPropagation(); show(current - 1); });
+    box.querySelector(".lb-next").addEventListener("click", function (e) { e.stopPropagation(); show(current + 1); });
+    box.addEventListener("click", function (e) {
+      if (e.target === box || e.target.tagName === "FIGURE") box.close();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (!box.open) return;
+      if (e.key === "ArrowLeft") show(current - 1);
+      if (e.key === "ArrowRight") show(current + 1);
+    });
+  })();
+  </script>
+</body>
+</html>

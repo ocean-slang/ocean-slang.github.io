@@ -1,0 +1,4 @@
+# Files that stay on your computer and are never uploaded to GitHub
+old-versions/
+.DS_Store
+.Rhistory
