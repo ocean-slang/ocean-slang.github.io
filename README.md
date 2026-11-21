@@ -1,6 +1,6 @@
 # Sarah E. Lang – personal website
 
-Plain HTML + CSS. No Jekyll, no build step, nothing to install.
+Plain HTML + CSS
 
 ## Files
 
